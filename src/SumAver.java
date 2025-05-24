@@ -17,7 +17,7 @@ sc.close();
  // For each loop to display the numbers entered
 System.out.print("The numbers you have entered are: ");
  for (int num: nums) {
-    System.out.print(num);
+    System.out.print(num + " ");
  }
  return nums;
 } 
